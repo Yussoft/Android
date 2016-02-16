@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BrujulaVoz</string>
+    <string name="action_settings">Settings</string>
+    <string name="btHablar">Nueva direccion</string>
+    <string name="error_orden">La orden dada no es correcta, intentalo de nuevo</string>
+    <string name="dir_correcta">¡Estás en la dirección correcta!</string>
+</resources>
